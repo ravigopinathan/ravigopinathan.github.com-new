@@ -1,0 +1,17 @@
+#id1 {
+  color: blue;
+  font-family: verdana;
+}
+
+#id2 {
+  text-align: center;
+  color: red;
+  }
+  
+<h1 id+"id1>Heading</h1>
+<p id="id1">paragraph</h1>
+<p id="id2">paragraph</h1>
+
+<h1 class="bluev">Heading</h1>
+<p class = bluev">Paragraph.</p>
+<p class="center">Paragraph</p>
