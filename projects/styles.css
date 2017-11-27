@@ -1,0 +1,57 @@
+
+
+
+body {
+  font-family: Verdana, Serif;
+  margin-left:10px;
+  margin-right: 10px;
+}
+
+h1 {
+  font:bold 40px verdana ;
+  text-align: center;
+}
+
+
+h2 {
+    color: white;
+    background-color:#4CAF50;
+    padding-left:12px;
+}
+
+
+th {
+  font: 28px "verdana";
+  color: white;
+  text-align: center;
+  background-color:#4CAF50;
+  padding-left:10px;
+}
+
+.tablestyle {
+  color:black;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+.codestyle p {
+  font-family: Verdana;
+}
+
+/*
+.bluev {
+  color: blue;
+  font-family: verdana;
+  font-size: 16px;
+}
+*/
+
+.bluev p {
+  font-size: 10px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+tr:nth-child(odd){background-color: white}
