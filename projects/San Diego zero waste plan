@@ -1,0 +1,74 @@
+<html>
+  <head>
+
+<link rel="stylesheet" type="text/css" href="layoutc3.2.css">
+<title>CSS Website Layout</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="layoutc3.css">
+<link rel="stylesheet" type="text/css" href="styles.css">
+
+    <div class ="topnav">
+      <a href="index.html">Home</a>
+      <a href="Recycling.html">Recycling</a>
+      <a href="Compost.html">Compost</a>
+      <a class= "active" 
+      href="San Diego Zero Waste Plan.html">San Diego Zero Waste Plan</a>
+      <a href="Implementation of the Zero Waste Plan.html">Implementation of the Zero Waste Plan</a>
+    </div>
+    
+    <div class="header">
+    <h1>
+      San Diego's plans to divert landfill waste
+    </h1>
+    <!--p>Resize the browser window to see the responsive effect.</p-->
+    </div>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="index.css" rel="stylesheet" type="text/css"/>
+
+<table class= "tableborder">
+  <tr>
+    <td width= 50%>
+      <ul>
+        <li>
+          <a href="https://www.sandiego.gov/sites/default/files/legacy/mayor/pdf/2015/ZeroWastePlan.pdf">San Diego's Zero Waste Plan</a>
+          envisions of all waste to be diverted by 2020, 90% waste diversion by 2035, and for the city to produce zero waste by 2040.  
+        </li>
+        <li>
+          <a href= "https://www.wastedive.com/news/san-diego-county-sets-goal-of-75-diversion-by-2025/441645/">The County of San Diego has a plan</a>
+          to divert 75% of waste from unincorporated areas by 2025
+    </td>
+    <td width= 50%>
+      <img src= "https://raw.githubusercontent.com/ravigopinathan/ravigopinathan.github.io/master/images/city%20of%20san%20diego%20zero%20waste%20plan.png" width = 100% >
+    </td>
+  </tr>
+</table>
+
+<p>
+  San Diego has created an ambitious <br>
+  “zero waste” plan to reduce waste by 75% by 2030.
+</p>
+Zero waste is the idea that every piece of waste can be reduced, reused, recycled, or composted. Here is a wikipedia page on what is zero waste
+<a href= "https://en.wikipedia.org/wiki/Zero_waste"></a>
+
+  
+<div class= "rightfloat">
+  <img src= "https://raw.githubusercontent.com/ravigopinathan/ravigopinathan.github.io/master/images/california%20flag.png">
+</div>
+
+<br>
+Although there is a lot of work by the city being done on reducing landfill waste, a lot of the emphasis on recycling and composting is in response to actions the state of California has taking to require cities to recycle more and reduce waste. Currently at 44% of all waste in california being diveted we are among the states with the highest proportion of waste being diverted. 
+<br>
+<Br>
+  Bellow is a link to a website called CalRecycle, an organization the state of california created to transition cities and facilities into compliance with recycling laws.
+<br>
+<br>
+<a href="http://www.calrecycle.ca.gov/">Calrecycle.ca.gov</a>
+
+  
+    <script src="index.js"></script>
+  
+</html>  
